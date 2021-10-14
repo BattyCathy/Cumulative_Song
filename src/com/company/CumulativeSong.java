@@ -1,5 +1,10 @@
 package com.company;
 
+//Austin Roach
+// CS141
+//HW Core Topics: static methods, printlns
+
+//This program outputs a cumulative song - the process was an exploration of redundancy and refactoring
 public class CumulativeSong {
 
     public static void main(String[] args) {
